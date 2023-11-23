@@ -10,6 +10,7 @@ Mais informações sobre as motivações da existência do arquivo Parquet, ofic
 
 
 # Visão Geral | Animação (GIF)
+![Visão Geral do App](https://github.com/mariosergioti/QlikSense_APP_AnalisesArquivoParquet/blob/main/Prints/v1.0.0/Vis%C3%A3o%20Geral%20-%20An%C3%A1lises%20Arquivo%20Parquet%20-%20v1.0.0%20_%20print01.gif?raw=true)
 <br>
 
 # Ambiente utilizado:
