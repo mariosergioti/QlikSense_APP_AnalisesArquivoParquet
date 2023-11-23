@@ -27,7 +27,7 @@ Antecessora:		-<br>
 Sucessora:		-<br>
 Dependência:		Pasta (Conector)<br>
 Plataforma:   Qlik Sense August 2023 Patch 6<br>
-Dados:			Baseado no script gerado automaticamente via script (Ctrl+0+0)<br>
+Dados:			Baseado no script gerado automaticamente (Ctrl+0+0)<br>
 <br>
 Primeira versão<br>
 Data: 			 22/11/2023<br>
