@@ -1,5 +1,5 @@
 # Sobre
-A partir da versão Qlik Sense August 2023, é possível ler e gravar dados no formato Parquet, arquivo de dados colunares, compactados e eficientes, ideal para projetos com o ecossistema Hadoop e multiplataformas.<br>
+A partir da versão Qlik Sense August 2023 é possível ler e gravar dados no formato Parquet, arquivo de dados colunares, compactados e eficientes, ideal para projetos com o ecossistema Hadoop e multiplataformas.<br>
 
 Poderão utilizar o app em anexo para efeito de estudo, com comparativos referente ao tamanho, velocidade de leitura e gravação utilizando arquivo Parquet direto no Qlik Sense, poderão modificar a tabela base via script para novos experimentos, fiquem à vontade.<br>
 O objetivo deste trabalho é filantrópico, didático e para apoiar a comunidade Qlik.<br>
