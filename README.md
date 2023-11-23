@@ -12,6 +12,11 @@ Mais informações sobre as motivações da existência do arquivo Parquet, ofic
 # Visão Geral | Animação (GIF)
 <br>
 
+# Ambiente utilizado:
+CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz<br>
+RAM: 32,0 GB (2667 MHz, dual channel)<br>
+Armazenamento: Samsung SSD 970 EVO Plus 500GB<br>
+
 # Qlik Sense App Análises Arquivo Parquet
 
 Aplicação: 		3.2.1 Análises Arquivo Parquet<br>
