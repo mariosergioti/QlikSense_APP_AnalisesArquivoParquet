@@ -16,12 +16,12 @@ Mais informações sobre as motivações da existência do arquivo Parquet, ofic
 
 Aplicação: 		3.2.1 Análises Arquivo Parquet<br>
 Versão: 		1.0.0<br>
-Objetivo: 		Analisar comportamento de volumetria e performance para fins de estudo<br>
+Objetivo: 		 Analisar volumetria e performance utilizando arquivo Parquet no Qlik Sense para fins de estudo<br>
 Antecessora:		-<br>
 Sucessora:		-<br>
-Dependência:		Arquivo Local<br>
+Dependência:		Pasta (Conector)<br>
 Plataforma:   Qlik Sense August 2023 Patch 6<br>
-Dados:			Baseado no script gerado automaticamente via script (Ctrl+0, Ctrl+0)<br>
+Dados:			Baseado no script gerado automaticamente via script (Ctrl+0+0)<br>
 <br>
 Primeira versão<br>
 Data: 			 22/11/2023<br>
