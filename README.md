@@ -14,7 +14,7 @@ Mais informações sobre as motivações da existência do arquivo Parquet, ofic
 
 # Qlik Sense App Análises de Investimentos
 
-Aplicação: 		3.2.1 Arquivo Parquet<br>
+Aplicação: 		3.2.1 Análises Arquivo Parquet<br>
 Versão: 		1.0.0<br>
 Objetivo: 		Analisar comportamento de volumetria e performance para fins de estudo<br>
 Antecessora:		-<br>
