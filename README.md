@@ -12,7 +12,7 @@ Mais informações sobre as motivações da existência do arquivo Parquet, ofic
 # Visão Geral | Animação (GIF)
 <br>
 
-# Qlik Sense App Análises de Investimentos
+# Qlik Sense App Análises Arquivo Parquet
 
 Aplicação: 		3.2.1 Análises Arquivo Parquet<br>
 Versão: 		1.0.0<br>
